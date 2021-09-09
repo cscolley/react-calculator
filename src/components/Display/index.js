@@ -5,7 +5,7 @@ const Display = ({ total, current }) => {
   return (
     <Wrapper>
       <Total>{total}</Total>
-      <Current>{current}</Current>
+      <Current id='display'>{current}</Current>
     </Wrapper>
   );
 };
