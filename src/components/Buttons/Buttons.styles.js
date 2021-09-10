@@ -6,7 +6,7 @@ export const Wrapper = styled.div`
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   grid-template-rows: repeat(5, 1fr);
-  grid-template-areas: 
+  grid-template-areas:
     "clear clear divide multiply"
     "seven eight nine subtract"
     "four five six add"
@@ -20,71 +20,70 @@ export const Wrapper = styled.div`
   }
 
   #clear {
-      grid-area: clear;
-    }
+    grid-area: clear;
+  }
 
-    #divide {
-      grid-area: divide;
-    }
+  #divide {
+    grid-area: divide;
+  }
 
-    #multiply {
-      grid-area: multiply;
-    }
+  #multiply {
+    grid-area: multiply;
+  }
 
-    #seven {
-      grid-area: seven;
-    }
+  #seven {
+    grid-area: seven;
+  }
 
-    #eight {
-      grid-area: eight;
-    }
+  #eight {
+    grid-area: eight;
+  }
 
-    #nine {
-      grid-area: nine;
-    }
+  #nine {
+    grid-area: nine;
+  }
 
-    #subtract {
-      grid-area: subtract;
-    }
+  #subtract {
+    grid-area: subtract;
+  }
 
-    #four {
-      grid-area: four;
-    }
+  #four {
+    grid-area: four;
+  }
 
-    #five {
-      grid-area: five;
-    }
+  #five {
+    grid-area: five;
+  }
 
-    #six {
-      grid-area: six;
-    }
+  #six {
+    grid-area: six;
+  }
 
-    #add {
-      grid-area: add;
-    }
+  #add {
+    grid-area: add;
+  }
 
-    #one {
-      grid-area: one;
-    }
+  #one {
+    grid-area: one;
+  }
 
-    #two {
-      grid-area: two;
-    }
+  #two {
+    grid-area: two;
+  }
 
-    #three {
-      grid-area: three;
-    }
+  #three {
+    grid-area: three;
+  }
 
-    #equals {
-      grid-area: equals;
-    }
+  #equals {
+    grid-area: equals;
+  }
 
-    #zero {
-      grid-area: zero;
-    }
+  #zero {
+    grid-area: zero;
+  }
 
-    #decimal {
-      grid-area: decimal;
-    }
+  #decimal {
+    grid-area: decimal;
+  }
 `;
-
