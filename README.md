@@ -1,6 +1,6 @@
 # Calculator
 
-This fully responsive site is deployed [HERE](https://github.com/cscolley/markdown-previewer).
+This fully responsive site is deployed [HERE](https://cscolley.github.io/react-calculator).
 
 This project was created during completion of the FreeCodeCamp.org [Front End Development Libraries Certification](https://www.freecodecamp.org/certification/chriscolley/front-end-development-libraries).
 
